@@ -12,9 +12,6 @@ Simple human that love making game
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KrayOristine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrayOristine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=kOrisDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KrayOristine&icon=5&color=0)](https://visitcount.itsvg.in)
 
