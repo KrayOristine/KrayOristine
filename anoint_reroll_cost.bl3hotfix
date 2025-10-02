@@ -1,0 +1,2 @@
+# Anointment Re-roll Cost lowered to 150 Eridium.
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/_Shared/_Design/InventoryGlobals.InventoryGlobals,PartReRollCostFormula.BaseValueConstant,0,,0
